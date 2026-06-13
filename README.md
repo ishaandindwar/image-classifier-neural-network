@@ -163,6 +163,15 @@ The most important observation was that achieving low training loss is not the s
 
 ---
 
+## How to Run
+
+1. Download the dataset from the Google Drive link above.
+2. Upload the dataset to your Google Drive.
+3. Open `image_classifier_Ishaan.ipynb` in Google Colab.
+4. Mount Google Drive.
+5. Update the dataset path if required.
+6. Run all notebook cells.
+
 ## Conclusion
 
 This project successfully demonstrated how a CNN can classify custom object images and how different parameters affect training behavior. The experiments provided practical insight into optimization and generalization, making the training process more understandable than simply learning the concepts theoretically.
