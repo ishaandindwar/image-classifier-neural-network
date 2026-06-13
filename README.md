@@ -51,7 +51,12 @@ Observation:
 
 The model achieved very high training accuracy but a very low validation accuracy, indicating overfitting.
 
-![Baseline Loss](results/baseline_loss.png)   ![Baseline Accuracy](results/baseline_accuracy.png)
+<h3>Baseline Model</h3>
+
+<p align="center">
+  <img src="results/baseline_loss.png" width="45%">
+  <img src="results/baseline_accuracy.png" width="45%">
+</p>
 
 ---
 
