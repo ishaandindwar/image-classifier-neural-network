@@ -54,8 +54,8 @@ The model achieved very high training accuracy but a very low validation accurac
 <h3>Baseline Model</h3>
 
 <p align="center">
-  <img src="results/baseline_loss.png" width="45%">
-  <img src="results/baseline_accuracy.png" width="45%">
+  <img src="results/baseline_loss.png" width="30%">
+  <img src="results/baseline_accuracy.png" width="30%">
 </p>
 
 ---
