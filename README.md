@@ -16,6 +16,14 @@ Each class contains 26 images captured under different angles and lighting condi
 The goal was not just to train a classifier, but to understand how neural network training behavior changes when different parameters and regularization techniques are applied.
 
 ---
+## Dataset Access
+
+Due to GitHub storage limitations, the complete dataset is hosted on Google Drive.
+
+Dataset Link:
+[https://drive.google.com/drive/folders/1ngucaB7KyqDDtuIHFGEyQBBZO5hdiXuZ?usp=sharing]
+
+---
 
 ## Model and Training Setup
 
