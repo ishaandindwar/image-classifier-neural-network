@@ -98,8 +98,8 @@ This suggests that training for too long causes the model to memorize the traini
 <h3>Extended Training Experiment</h3>
 
 <p align="left">
-  <img src="results/improvement_loss.png" width="30%">
-  <img src="results/improvement_accuracy.png" width="30%">
+  <img src="results/improved_loss.png" width="30%">
+  <img src="results/improved_accuracy.png" width="30%">
 </p>
 
 ---
