@@ -166,11 +166,12 @@ The most important observation was that achieving low training loss is not the s
 ## How to Run
 
 1. Download the dataset from the Google Drive link above.
-2. Upload the dataset to your Google Drive.
-3. Open `image_classifier_Ishaan.ipynb` in Google Colab.
-4. Mount Google Drive.
-5. Update the dataset path if required.
-6. Run all notebook cells.
+2. Upload the dataset folder to your Google Drive.
+3. Open image_classifier_Ishaan.ipynb in Google Colab.
+4. Run the cell that mounts Google Drive.
+5. Update the dataset path if necessary.
+6. Run all notebook cells from top to bottom.
+7. Use the prediction cell to test images from the dataset.
 
 ## Conclusion
 
