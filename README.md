@@ -51,6 +51,8 @@ Observation:
 
 The model achieved very high training accuracy but a very low validation accuracy, indicating overfitting.
 
+![Baseline Loss](results/baseline_loss.png)   ![Baseline Accuracy](results/baseline_accuracy.png)
+
 ---
 
 ### Weight Decay Experiment (Failed Experiment)
