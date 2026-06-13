@@ -53,7 +53,7 @@ The model achieved very high training accuracy but a very low validation accurac
 
 <h3>Baseline Model</h3>
 
-<p align="center">
+<p align="left">
   <img src="results/baseline_loss.png" width="30%">
   <img src="results/baseline_accuracy.png" width="30%">
 </p>
@@ -74,6 +74,12 @@ Although regularization is generally used to improve generalization, validation 
 
 This experiment showed that regularization can be harmful when applied too aggressively.
 
+<h3>Weight Decay Experiment</h3>
+
+<p align="left">
+  <img src="results/weight_decay_loss.png" width="30%">
+  <img src="results/weight_decay_accuracy.png" width="30%">
+</p>
 
 ---
 
@@ -89,7 +95,12 @@ Observations:
 
 This suggests that training for too long causes the model to memorize the training data instead of learning general patterns.
 
+<h3>Extended Training Experiment</h3>
 
+<p align="left">
+  <img src="results/improvement_loss.png" width="30%">
+  <img src="results/improvement_accuracy.png" width="30%">
+</p>
 
 ---
 
